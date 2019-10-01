@@ -3,3 +3,4 @@
 
 
 * It contains solution of hackerearth problems..
+so readme updated 
