@@ -2,4 +2,4 @@
 ---
 
 
-* It contains solution of hackerearth problems.
+* It contains solution of hackerearth problems..
